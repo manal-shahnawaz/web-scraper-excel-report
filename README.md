@@ -4,6 +4,8 @@ A Python tool that scrapes product prices from an online catalogue, compares the
 
 > Built as a practice project against [books.toscrape.com](https://books.toscrape.com), a site made for scraping practice. The same approach works for competitor price monitoring, product research, or lead lists.
 
+![Summary sheet](screenshots/summary.png)
+
 ## What it does
 
 - Scrapes **all pages** automatically (1,000 products) with retries and polite delays
